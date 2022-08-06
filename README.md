@@ -77,7 +77,7 @@ Options:
 ```sh
 ./tl -l ru -f sample.txt
 ```
-Known issue: Provided output (translated) from a file will only translate first line and skip all after first newline. For more info, see [this](https://github.com/kiwimoe/tl/issues/1). 
+Known issue: Provided input file for translation, output result will be only show the first line result. For more info, see [this](https://github.com/kiwimoe/tl/issues/1).
 
 Note: In language parameter you can't pass country name, Google translate API only supports ISO language codes.
 
